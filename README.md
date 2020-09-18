@@ -1,12 +1,13 @@
 # Description
 A highly customizable player list for spigot and bungee.
+https://www.spigotmc.org/resources/spigot-bungeecord-playerz.23597/
 
 ## Background
 - PlayerZ is a bukkit plugin created by C_Kin for Bukkit some time before 2015 (v1).
 - After having been dropped abandoned by C_Kin, the plugin was re-uploaded to spigot by BrettPlayMC
-- At some point after that, the plugin was forked by Struck713 to add support for newer versions and BungeeCord (v2).
-- Some time after 2017, the bungeecord features of v2 stopped functioning.
-- This is a private fork from the LCLO to attempt to resolve that issue.
+- In 2016, the plugin was forked by Struck713 to add support for newer versions and BungeeCord (v2).
+- Dependency updates throughout 2017 broke a good many of this plugins features.
+- This is a fork from the LCLO to attempt to resolve those issues.
 
 # Permissions
 ```
@@ -23,7 +24,12 @@ https://www.spigotmc.org/wiki/playerz-spigot-official-config-documentation-2-0/
 
 # Changes
 #### [Version 3.1.0] LCLO Fork
- - Fixed BungeeCord Support for 1.16.3
+ - Re-structured plugin to be more intuitive
+ - Updated to 1.16.3
+ - Removed unused sections of the config.
+ - Fixed an issue where the plugin listing could break in 1.11+
+ - Switched to ProxyServer over the internal BungeeCord (more stable)
+ - Fixed an issue from which the default config could generate a null pointer.
 #### [Version 2.0.1] Struck713 Fork
  - Added BungeeCord Support
 #### [Version 2.0.0] Struck713 Fork
