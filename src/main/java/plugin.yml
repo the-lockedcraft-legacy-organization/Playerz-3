@@ -1,0 +1,12 @@
+main: com.struckplayz.playerz.bukkit.Playerz
+name: Playerz
+version: @version@
+description: Improved player listing.
+authors: [Struck713, InteriorCamping, BretPlayMC, K_Cin]
+website: https://www.spigotmc.org/resources/spigot-bungeecord-playerz.23597/
+api-version: @spigot-version@
+
+commands:
+    list:
+     description: Use to show the list of online groups
+     usage: /list
