@@ -3,7 +3,7 @@
 
     <groupId>com.struckplayz</groupId>
     <artifactId>Playerz</artifactId>
-    <version>3.0.1</version>
+    <version>3.1.0</version>
     <name>Playerz</name>
     <description>Spigot and Bungee plugin to improve player listing.</description>
 
