@@ -4,7 +4,7 @@ https://www.spigotmc.org/resources/spigot-bungeecord-playerz.23597/
 
 ## Background
 - PlayerZ is a bukkit plugin created by C_Kin for Bukkit some time before 2015 (v1).
-- After having been dropped abandoned by C_Kin, the plugin was re-uploaded to spigot by BrettPlayMC
+- After having been abandoned by C_Kin, the plugin was re-uploaded to spigot by BrettPlayMC
 - In 2016, the plugin was forked by Struck713 to add support for newer versions and BungeeCord (v2).
 - Dependency updates throughout 2017 broke a good many of this plugins features.
 - This is a fork from the LCLO to attempt to resolve those issues.
