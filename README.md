@@ -1,6 +1,6 @@
 # Description
 A highly customizable player list for spigot and bungee.
-https://www.spigotmc.org/resources/spigot-bungeecord-playerz.23597/
+https://www.spigotmc.org/resources/playerz.87946/
 
 ## Background
 - PlayerZ is a bukkit plugin created by C_Kin for Bukkit some time before 2015 (v1).
