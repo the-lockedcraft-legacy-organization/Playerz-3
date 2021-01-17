@@ -15,12 +15,12 @@ playerz.<int> -- Show up under group <int> in the listing.
 ```
 
 # Instructions
-Information on configuring this plugin can be found in the v2 documentation at
-https://www.spigotmc.org/wiki/playerz-spigot-official-config-documentation-2-0/
+Information on configuring this plugin can be found in the documentation at
+https://www.spigotmc.org/wiki/playerz-3-0-documentation
 
-# Configuration
-Configuration nodes are discussed at
-https://www.spigotmc.org/wiki/playerz-spigot-official-config-documentation-2-0/
+# Permissions
+Permission nodes are also discussed at
+https://www.spigotmc.org/wiki/playerz-3-0-documentation
 
 # Changes
 #### [Version 3.1.0] LCLO Fork
